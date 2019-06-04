@@ -1,0 +1,42 @@
+{
+    "developers":[{
+        "title": "Square Enix",
+        "logo":"Square-Enix.jpg",
+        "info": "Even though it was made and released before I was likely an idea (Not that long before I was an idea, mind you) Final Fantasy VII puts Square very high on my respected game developers list, even if I could give them no other merit (which I could give plenty of).",
+        "score": "9",
+        "games": ["square-1", "square-2", "square-3"],
+        "carouselPic": "square-4.jpg",
+        "carouselInfo": ""
+    },{
+        "title": "Bandai Namco",
+        "logo": "bandai-namco.jpg",
+        "info": "Though you may know the company for many other games (pacman included) and most of them of the anime type, the two reasons I know and enjoy this company's existence is 'Tales' and 'Tekken'!",
+        "score": "8.5",
+        "games": ["bandai-1", "bandai-2", "bandai-3"],
+        "carouselPic": "bandai-4.jpeg",
+        "carouselInfo": ""
+    },{
+        "title": "Platinum Games",
+        "logo": "Platinum_Games.jpg",
+        "info": "True action games means a lot to me and the people of Platinum games. While up until Metal Gear Rising, I wasn't too sure of what this company was, after Nier Automata, I'll never forget this company!",
+        "score": "9",
+        "games": ["platinum-games-1", "platinum-games-2", "platinum-games-3"],
+        "carouselPic": "platinum-4.jpeg",
+        "carouselInfo": ""
+    },{
+        "title": "Gearbox Software",
+        "logo": "gearbox.jpg",
+        "info": "Borderlands...Do I really need to say anything beyond that? Okay, well, if you've played Borderlands, you'll know that the development team behind this studio is incredible for the amount of blood, sweat, and tears they put into their games, because it shines like the light in your eye when you pick up the controller to play Borderlands.",
+        "score": "8",
+        "games": ["gearbox-1", "gearbox-2", "gearbox-3"],
+        "carouselInfo": ""
+    },{
+        "title" : "Team Ninja",
+        "logo" : "Team-Ninja.jpg",
+        "info" : "Another reference to true action games, Team Ninja is another studio that I would endorse even if it continued to make only one title: 'Ninja Gaiden'. There are another two titles that I would enjoy talking about in earnest, but we'll let sleeping dogs lie, for now.",
+        "score": "8",
+        "games": ["team-ninja-1", "team-ninja-2", "team-ninja-3"],
+        "carouselPic": "ninja-4.jpeg",
+        "carouselInfo": ""
+    }]
+}
